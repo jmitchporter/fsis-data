@@ -1,0 +1,384 @@
+[
+  {
+    "name": "A & M Processing",
+    "city": "Hamburg",
+    "state": "MN",
+    "activities": ["\"Meat Slaughter\"", "\"Meat Processing\""],
+    "geolocation": "44.702013, -93.964673"
+  },
+  {
+    "name": "Belgrade Meat Center",
+    "city": "Belgrade",
+    "state": "MN",
+    "activities": ["\"Meat Slaughter\"", "\"Meat Processing\""],
+    "geolocation": "45.4536455978261, -95.00434167"
+  },
+  {
+    "name": "Blue Ribbon Halal Meats",
+    "city": "Monticello",
+    "state": "MN",
+    "activities": ["\"Meat Slaughter\"", "\"Meat Processing\""],
+    "geolocation": "45.255634, -93.713041"
+  },
+  {
+    "name": "Chickenhead Farm & Slaughterhouse",
+    "city": "Silver Lake",
+    "state": "MN",
+    "activities": ["\"Meat Slaughter\"", "\"Meat Processing\""],
+    "geolocation": "44.940696, -94.197881"
+  },
+  {
+    "name": "Foley Locker Inc.",
+    "city": "Foley",
+    "state": "MN",
+    "activities": ["\"Meat Slaughter\"", "\"Meat Processing\""],
+    "geolocation": "45.6651851, -93.9113488"
+  },
+  {
+    "name": "Fox Farm Processing",
+    "city": "Browerville",
+    "state": "MN",
+    "activities": ["\"Meat Slaughter\"", "\"Meat Processing\""],
+    "geolocation": "46.0912978, -94.8661819"
+  },
+  {
+    "name": "French Lake Butcher Shop",
+    "city": "South Haven",
+    "state": "MN",
+    "activities": ["\"Meat Slaughter\"", "\"Meat Processing\""],
+    "geolocation": "45.186503, -94.240088"
+  },
+  {
+    "name": "Hancock Quality Meats, LLC",
+    "city": "Hancock",
+    "state": "MN",
+    "activities": ["\"Meat Slaughter\"", "\"Meat Processing\""],
+    "geolocation": "45.501885, -95.793723"
+  },
+  {
+    "name": "K & S Poultry & Meats",
+    "city": "Kerkhoven",
+    "state": "MN",
+    "activities": ["\"Meat Slaughter\"", "\"Meat Processing\""],
+    "geolocation": "45.181462, -95.257157"
+  },
+  {
+    "name": "Kerkhoven Country Butcher",
+    "city": "Kerkhoven",
+    "state": "MN",
+    "activities": ["\"Meat Slaughter\"", "\"Meat Processing\""],
+    "geolocation": "45.179986, -95.318594"
+  },
+  {
+    "name": "Klinder Processing",
+    "city": "Carlos",
+    "state": "MN",
+    "activities": ["\"Meat Slaughter\"", "\"Meat Processing\""],
+    "geolocation": "46.005078, -95.218822"
+  },
+  {
+    "name": "Lakes Community Cooperative",
+    "city": "Perham",
+    "state": "MN",
+    "activities": ["\"Meat Slaughter\"", "\"Meat Processing\""],
+    "geolocation": "46.589211, -95.574532"
+  },
+  {
+    "name": "Milaca Meats",
+    "city": "Milaca",
+    "state": "MN",
+    "activities": ["\"Meat Slaughter\"", "\"Meat Processing\""],
+    "geolocation": "45.757198, -93.632918"
+  },
+  {
+    "name": "Orty's Custom Meats",
+    "city": "Deer River",
+    "state": "MN",
+    "activities": ["\"Meat Slaughter\"", "\"Meat Processing\""],
+    "geolocation": "47.3285625, -93.7656857"
+  },
+  {
+    "name": "Pep's Pork",
+    "city": "Melrose",
+    "state": "MN",
+    "activities": ["\"Meat Slaughter\"", "\"Meat Processing\""],
+    "geolocation": "45.553693, -94.787772"
+  },
+  {
+    "name": "Plantenberg's Market Inc.",
+    "city": "Richmond",
+    "state": "MN",
+    "activities": ["\"Meat Slaughter\"", "\"Meat Processing\""],
+    "geolocation": "45.454102, -94.51916104"
+  },
+  {
+    "name": "Round Table Meats",
+    "city": "Goodview",
+    "state": "MN",
+    "activities": ["\"Meat Slaughter\"", "\"Meat Processing\""],
+    "geolocation": "44.0712314106323, -91.71272555"
+  },
+  {
+    "name": "Schaefers Market",
+    "city": "Sauk Centre",
+    "state": "MN",
+    "activities": ["\"Meat Slaughter\"", "\"Meat Processing\""],
+    "geolocation": "45.7370442099428, -94.9506693"
+  },
+  {
+    "name": "Havenwood Meats",
+    "city": "New Germany",
+    "state": "MN",
+    "activities": ["\"Meat Slaughter\"", "\"Meat Processing\""],
+    "geolocation": "44.89075, -93.966454"
+  },
+  {
+    "name": "Stinson's Country Style Meats",
+    "city": "Houston",
+    "state": "MN",
+    "activities": ["\"Meat Slaughter\"", "\"Meat Processing\""],
+    "geolocation": "43.762863, -91.573761"
+  },
+  {
+    "name": "Taylor Meats",
+    "city": "Watertown",
+    "state": "MN",
+    "activities": ["\"Meat Slaughter\"", "\"Meat Processing\""],
+    "geolocation": "44.950448, -93.862801"
+  },
+  {
+    "name": "U of M, Meat Science Lab (Dept. of Animal Science)",
+    "city": "St. Paul",
+    "state": "MN",
+    "activities": ["\"Meat Slaughter\"", "\"Meat Processing\""],
+    "geolocation": "44.9817134, -93.184787"
+  },
+  {
+    "name": "Z & A Country Market",
+    "city": "Saint Charles",
+    "state": "MN",
+    "activities": ["\"Meat Slaughter\"", "\"Meat Processing\""],
+    "geolocation": "43.9625204, -92.0070112"
+  },
+  {
+    "name": "3 Hmong Sausage ",
+    "city": "St. Paul ",
+    "state": "MN",
+    "activities": ["\"Meat Processing\""],
+    "geolocation": "44.9592045, -93.1513876"
+  },
+  {
+    "name": "Bemidji Downtown Meats",
+    "city": "Bemidji ",
+    "state": "MN",
+    "activities": ["\"Meat Processing\""],
+    "geolocation": "47.4697119, -94.884653"
+  },
+  {
+    "name": "Boga",
+    "city": "Minneapolis",
+    "state": "MN",
+    "activities": ["\"Meat Processing\""],
+    "geolocation": "44.9651038571429, -93.23604757"
+  },
+  {
+    "name": "Como Meat",
+    "city": "St. Paul",
+    "state": "MN",
+    "activities": ["\"Meat Processing\""],
+    "geolocation": "44.9622019, -93.1090544"
+  },
+  {
+    "name": "Creative Catering",
+    "city": "St. Paul",
+    "state": "MN",
+    "activities": ["\"Meat Processing\""],
+    "geolocation": "45.021426, -93.080695"
+  },
+  {
+    "name": "Crescent Moon ",
+    "city": "Minneapolis ",
+    "state": "MN",
+    "activities": ["\"Meat Processing\""],
+    "geolocation": "45.0113966938776, -93.2472181"
+  },
+  {
+    "name": "Dehmer's Meats Inc.",
+    "city": "St. Michael",
+    "state": "MN",
+    "activities": ["\"Meat Processing\""],
+    "geolocation": "45.2102059301444, -93.65669324"
+  },
+  {
+    "name": "Do North Pizzeria",
+    "city": "Hermantown",
+    "state": "MN",
+    "activities": ["\"Meat Processing\""],
+    "geolocation": "46.8364702719391, -92.21840713"
+  },
+  {
+    "name": "Edel's Meat Market",
+    "city": "Montgomery",
+    "state": "MN",
+    "activities": ["\"Meat Processing\""],
+    "geolocation": "44.43945, -93.581385"
+  },
+  {
+    "name": "El Rancho",
+    "city": "Marshall",
+    "state": "MN",
+    "activities": ["\"Meat Processing\""],
+    "geolocation": "44.4509958, -95.762822"
+  },
+  {
+    "name": "Evansville Meat Market ",
+    "city": "Evansville ",
+    "state": "MN",
+    "activities": ["\"Meat Processing\""],
+    "geolocation": "46.0067264081633, -95.68662637"
+  },
+  {
+    "name": "Grand Champion Meats",
+    "city": "Foley",
+    "state": "MN",
+    "activities": ["\"Meat Processing\""],
+    "geolocation": "45.664684, -93.92142"
+  },
+  {
+    "name": "Greg's Meat Processing",
+    "city": "Hampton",
+    "state": "MN",
+    "activities": ["\"Meat Processing\""],
+    "geolocation": "44.5860045, -92.9843673"
+  },
+  {
+    "name": "Kadejan Market",
+    "city": "Alexandria",
+    "state": "MN",
+    "activities": ["\"Meat Processing\""],
+    "geolocation": "45.8835101, -95.3745015"
+  },
+  {
+    "name": "Kowalski's Central Meat Facility",
+    "city": "Shoreview ",
+    "state": "MN",
+    "activities": ["\"Meat Processing\""],
+    "geolocation": "45.0792281395024, -93.11952037"
+  },
+  {
+    "name": "Kramarczuk Sausage Co, Inc.",
+    "city": "Minneapolis",
+    "state": "MN",
+    "activities": ["\"Meat Processing\""],
+    "geolocation": "44.9878359, -93.2572689"
+  },
+  {
+    "name": "La Loma",
+    "city": "Minneapolis",
+    "state": "MN",
+    "activities": ["\"Meat Processing\""],
+    "geolocation": "44.9339483, -93.2465891"
+  },
+  {
+    "name": "Let's Dish ",
+    "city": "Woodbury ",
+    "state": "MN",
+    "activities": ["\"Meat Processing\""],
+    "geolocation": "44.9465235, -92.9013302"
+  },
+  {
+    "name": "Meals for Native Institutions",
+    "city": "Minneapolis",
+    "state": "MN",
+    "activities": ["\"Meat Processing\""],
+    "geolocation": "44.9625491, -93.2342806"
+  },
+  {
+    "name": "M & M Coffee LLC",
+    "city": "Minneapolis",
+    "state": "MN",
+    "activities": ["\"Meat Processing\""],
+    "geolocation": "44.9594458, -93.2605267"
+  },
+  {
+    "name": "Modern Kitchens Inc.",
+    "city": "Edina",
+    "state": "MN",
+    "activities": ["\"Meat Processing\""],
+    "geolocation": "44.8706636666667, -93.35535911"
+  },
+  {
+    "name": "Nerstrand Meat",
+    "city": "Nerstrand",
+    "state": "MN",
+    "activities": ["\"Meat Processing\""],
+    "geolocation": "44.341676, -93.067672"
+  },
+  {
+    "name": "Oak & Steel Smokehouse",
+    "city": "Cologne",
+    "state": "MN",
+    "activities": ["\"Meat Processing\""],
+    "geolocation": "44.7687660714286, -93.78516683"
+  },
+  {
+    "name": "Rucks Meat Market",
+    "city": "Belle Plaine",
+    "state": "MN",
+    "activities": ["\"Meat Processing\""],
+    "geolocation": "44.6232895526642, -93.76961833"
+  },
+  {
+    "name": "SomAmerican Food Distribution Services Inc",
+    "city": "Minneapolis",
+    "state": "MN",
+    "activities": ["\"Meat Processing\""],
+    "geolocation": "44.950192, -93.281456"
+  },
+  {
+    "name": "Sutton Investments",
+    "city": "New Hope",
+    "state": "MN",
+    "activities": ["\"Meat Processing\""],
+    "geolocation": "45.0342908392, -93.37675513"
+  },
+  {
+    "name": "Thielen Meats of Little Falls",
+    "city": "Little Falls",
+    "state": "MN",
+    "activities": ["\"Meat Processing\""],
+    "geolocation": "45.9770791, -94.3415577"
+  },
+  {
+    "name": "Thielen Meats of Pierz Inc.",
+    "city": "Pierz",
+    "state": "MN",
+    "activities": ["\"Meat Processing\""],
+    "geolocation": "45.9836120403962, -94.10502037"
+  },
+  {
+    "name": "Tike's Trophy Meats",
+    "city": "Cohasset",
+    "state": "MN",
+    "activities": ["\"Meat Processing\""],
+    "geolocation": "47.1751217299427, -93.66128475"
+  },
+  {
+    "name": "Wick's Meat Shoppe",
+    "city": "Kandiyohi",
+    "state": "MN",
+    "activities": ["\"Meat Processing\""],
+    "geolocation": "45.1345245539504, -94.93080265"
+  },
+  {
+    "name": "Wiste's Meat Market",
+    "city": "Janesville",
+    "state": "MN",
+    "activities": ["\"Meat Processing\""],
+    "geolocation": "44.1171205423729, -93.70763815"
+  },
+  {
+    "activities": [null],
+    "geolocation": "NA, NA"
+  }
+]
